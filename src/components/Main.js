@@ -72,11 +72,6 @@ class Main extends React.Component {
             GREAT IDEAS BUT NEVER REALLY GOING ANYWHERE WITH THEM.
           </p>
           <p>
-            Designers are really a lot like scientists who study the behaviour
-            of people. They spend time examining the needs of people and how
-            best to construct solutions within technical limitations.
-          </p>
-          <p>
             WHY NOT PUT YOUR TALENTS INTO PRACTICE ON REAL-WORLD PROJECTS -
             CONDUCTING CUSTOMER RESEARCH, WORKING WITH PEOPLE TO TEST AND REFINE
             THE USER EXPERIENCE, AND INTERFACE WITH DEVELOPERS TO MAKE THE BEST
