@@ -11,12 +11,11 @@ const Header = props => (
       <div className="inner">
         <h1>Honeymkr</h1>
         <p>
-          A new kind of agency which exists for people to teach themselves how
-          to code, design and provide leadership around a handfull of unique web
-          based projects curated on an ongoing basis. We offer three 4 month
-          long internships per year for talented &amp; hungry individuals like
-          yourself to develop real world experience and portfolio work towards
-          landing your next opportunity at a startup or business of your dreams.
+          A HYBRID SCHOOL-AGENCY FOR PEOPLE TO TEACH THEMSELVES HOW TO CODE,
+          DESIGN AND MASTER SOCIAL MEDIA MANAGEMENT. WE OFFER 6 MONTH TRAINING,
+          TWICE A YEAR TO DEVELOP REAL-WORLD EXPERIENCE, PORTFOLIO WORK, AND
+          CHARACTER DEVELOPMENT TOWARDS LANDING YOUR NEXT OPPORTUNITY AT A
+          STARTUP OR BUSINESS.
         </p>
       </div>
     </div>
